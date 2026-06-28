@@ -2,14 +2,11 @@
 
 This project was created as Task 1 for the CodSoft UI/UX Design Internship using Figma.
 
-📌 Project Overview
-
+📌 PROJECT OVERVIEW:
 This project presents a modern and intuitive mobile app login flow designed for a shopping application called Fiora. The goal was to create a seamless onboarding experience that allows users to easily navigate between the Welcome, Login, and Sign Up screens while maintaining a clean and consistent visual design.
-
 The interface focuses on simplicity, accessibility, and user-friendly interactions, ensuring a smooth experience for first-time and returning users.
 
-✨ Features
-
+✨ FEATURES:
 👋 Welcome screen with an engaging introduction
 
 🔐 Login screen with email/phone and password fields
@@ -27,30 +24,19 @@ The interface focuses on simplicity, accessibility, and user-friendly interactio
 💜 User-friendly navigation and call-to-action buttons
 
 
-🛠️ Tools Used
+🛠️ TOOLS USED:
 
-Figma
-
-Material Icons
-
-Interactive Prototyping
+Figma,Material Icons,Interactive Prototyping
 
 
-🎯 Learning Outcomes
-
+🎯 LEARNING OUTCOME:
 Through this project, I gained hands-on experience in:
-
-Creating mobile UI layouts in Figma
-
-Building a complete user authentication flow
-
-Designing consistent components and reusable elements
-
-Creating interactive prototypes for seamless navigation
-
-Applying UI/UX design principles to improve usability and visual hierarchy
+1. Creating mobile UI layouts in Figma
+2. Building a complete user authentication flow
+3. Designing consistent components and reusable elements
+4. Creating interactive prototypes for seamless navigation
+5. Applying UI/UX design principles to improve usability and visual hierarchy
 
 
-🎓 Internship
-
+🎓 INTERNSHIP:
 This project was completed as part of the CodSoft UI/UX Design Internship.
